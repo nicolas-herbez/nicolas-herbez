@@ -8,40 +8,40 @@ Actually :
 - 🌱 I’m currently learning **Symfony, API Platform, Docker**
 - 📫 You can reach me on contact@nicolas-herbez.com
 
-> ### ✉️ Connect with me
+### ✉️ Connect with me
 
 &nbsp;&nbsp;
-[![img_contact](./img/globe-light.svg#gh-light-mode-only)](https://nico-and-web.fr)
-[![img_contact](./img/globe-dark.svg#gh-dark-mode-only)](https://nico-and-web.fr)
+[![img_globe_light](./img/globe-light.svg)](https://nico-and-web.fr#gh-light-mode-only)
+[![img_globe_dark](./img/globe-dark.svg)](https://nico-and-web.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg#gh-light-mode-only)](https://www.linkedin.com/in/nicolas-herbez-hdf/)
-[![img_contact](./img/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/nicolas-herbez-hdf/)
+[![img_linkedin_light](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-herbez-hdf#gh-light-mode-only)
+[![img_linkedin_dark](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-herbez-hdf#gh-dark-mode-only)
 
-> ### 🧰 Languages and Tools
-
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/vscode.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/html.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/css.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/javascript.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/php.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/symfony-light.svg#gh-light-mode-only)
-![img_languages_and_tools](./img/symfony-dark.svg#gh-dark-mode-only)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/mysql.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/docker.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/git.svg)
-&nbsp;&nbsp;
-![img_languages_and_tools](./img/gitlab.svg)
-
-> ### ⭐ GitHub Stats
+### 🧰 Languages and Tools
 
 &nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-herbez&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+![img_vscode](./img/vscode.svg)
+&nbsp;&nbsp;
+![img_html](./img/html.svg)
+&nbsp;&nbsp;
+![img_css](./img/css.svg)
+&nbsp;&nbsp;
+![img_javascript](./img/javascript.svg)
+&nbsp;&nbsp;
+![img_php](./img/php.svg)
+&nbsp;&nbsp;
+![img_symfony_light](./img/symfony-light.svg#gh-light-mode-only)
+![img_symfony_dark](./img/symfony-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![img_mysql](./img/mysql.svg)
+&nbsp;&nbsp;
+![img_docker](./img/docker.svg)
+&nbsp;&nbsp;
+![img_git](./img/git.svg)
+&nbsp;&nbsp;
+![img_gitlab](./img/gitlab.svg)
+
+### ⭐ GitHub Stats
+
+&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-herbez&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
