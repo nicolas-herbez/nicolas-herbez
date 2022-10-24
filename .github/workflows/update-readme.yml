@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          README_ACTIVITY_TOKEN: ${{ secrets.README_ACTIVITY_TOKEN }}
-        # with:
-        #   COMMIT_MSG: 'Specify a custom commit message'
-        #   MAX_LINES: 10
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update recent activity'
+          MAX_LINES: 5

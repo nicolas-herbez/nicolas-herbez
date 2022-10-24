@@ -15,11 +15,9 @@ Actually :
 ### ✉️ Connect with me
 
 &nbsp;&nbsp;
-[![img_globe_light](./img/globe-light.svg)](https://nico-and-web.fr#gh-light-mode-only)
-[![img_globe_dark](./img/globe-dark.svg)](https://nico-and-web.fr#gh-dark-mode-only)
+<a href="https://nico-and-web.fr" target="_blanc"><img src="./img/globe.svg" /></a>
 &nbsp;&nbsp;
-[![img_linkedin_light](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicolas-herbez-hdf#gh-light-mode-only)
-[![img_linkedin_dark](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicolas-herbez-hdf#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/nicolas-herbez-hdf" target="_blanc"><img src="./img/linkedin.svg" /></a>
 
 ### 🧰 Languages and Tools
 
