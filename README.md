@@ -8,6 +8,10 @@ Actually :
 - 🌱 I’m currently learning **Symfony, API Platform, Docker**
 - 📫 You can reach me on contact@nicolas-herbez.com
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
 ### ✉️ Connect with me
 
 &nbsp;&nbsp;
@@ -44,4 +48,4 @@ Actually :
 ### ⭐ GitHub Stats
 
 &nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-herbez&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-herbez&count_private=true&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
