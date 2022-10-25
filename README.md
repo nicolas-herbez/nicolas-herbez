@@ -8,10 +8,6 @@ Actually :
 - 🌱 I’m currently learning **Symfony, API Platform, Docker**
 - 📫 You can reach me on contact@nicolas-herbez.com
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
 ### ✉️ Connect with me
 
 &nbsp;&nbsp;
