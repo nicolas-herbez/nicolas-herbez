@@ -4,8 +4,7 @@ Hi I'm Nicolas, I live in France
 
 Actually :
 
-- 🔭 I’m currently working on [json to csv](https://github.com/nicolas-herbez/json-to-csv)
-- 🌱 I’m currently learning **Symfony, API Platform, Docker**
+- 🌱 I’m currently learning **Symfony, API Platform, Docker, Angular**
 - 📫 You can reach me on contact@nicolas-herbez.com
 
 ### ✉️ Connect with me
