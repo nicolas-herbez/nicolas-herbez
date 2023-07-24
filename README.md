@@ -7,15 +7,15 @@ Actually :
 - 🌱 I’m currently learning **Symfony, API Platform, Docker, Angular**
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nicolas-herbez/count.svg" />
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/nicolas-herbez/count.svg" />
 </p>
 
 ### ⭐ GitHub Stats
 
-<p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=nicolas-herbez&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://streak-stats.demolab.com?user=nicolas-herbez&theme=transparent&hide_border=true&exclude_days=Sun%2CSat" />
+</div>
 
 ### ✉️ Connect with me
 
@@ -48,6 +48,6 @@ Actually :
 &nbsp;&nbsp;
 ![img_gitlab](./img/gitlab.svg)
 
-<p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-herbez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-herbez&layout=compact&theme=vision-friendly-dark" />
+</div>
