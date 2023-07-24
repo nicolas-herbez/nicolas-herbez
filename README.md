@@ -1,11 +1,21 @@
 # Nicolas Herbez
 
-Hi I'm Nicolas, I live in France
+Independent trainer.
 
 Actually :
 
 - 🌱 I’m currently learning **Symfony, API Platform, Docker, Angular**
-- 📫 You can reach me on contact@nicolas-herbez.com
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nicolas-herbez/count.svg" />
+</p>
+
+### ⭐ GitHub Stats
+
+<p align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=nicolas-herbez&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</p>
 
 ### ✉️ Connect with me
 
@@ -38,7 +48,6 @@ Actually :
 &nbsp;&nbsp;
 ![img_gitlab](./img/gitlab.svg)
 
-### ⭐ GitHub Stats
-
-&nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-herbez&count_private=true&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-herbez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
