@@ -13,7 +13,7 @@ Actually :
 
 ### ⭐ GitHub Stats
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="https://streak-stats.demolab.com?user=nicolas-herbez&theme=transparent&hide_border=true&exclude_days=Sun%2CSat" />
 </div>
 
@@ -48,6 +48,6 @@ Actually :
 &nbsp;&nbsp;
 ![img_gitlab](./img/gitlab.svg)
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-herbez&layout=compact&theme=vision-friendly-dark" />
 </div>
